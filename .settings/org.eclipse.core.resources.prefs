@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//main/main.py=utf-8
+encoding//tool/get_adb_location.py=utf-8
+encoding//tool/get_phone_screenshot.py=utf-8
+encoding//tool/image_handle.py=utf-8
